@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  YenAMarreDeUIKitOnDevraitFaireLesProjetsChefDoeuvre
-//
-//  Created by Esteban SEMELLIER on 12/02/2024.
-//
-
 import UIKit
 
 @main
