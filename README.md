@@ -1,19 +1,14 @@
-Les contraintes ont déjà été réfléchies pour vous, les voici :
-L'image
-doit toujours avoir le même ratio
-doit s'agrandir si l'écran est plus large
-que l'image source fasse 100x300 ou 200x200, l'espace affiché doit être le même
-elle doit toujours être centrée sur l'axe x
-Le texte
-il peut faire une ou deux lignes
-il doit être affiché en entier
-la taille du label doit s'adapter en fonction du nombre de lignes, la taille est donc dynamique
-Les boutons
-ils feront toujours 60x60 avec la même image dedans
-doivent être positionnés au centre de l'écran sur l'axe y
-De manière générale
-l'ensemble des éléments doivent être au centre de l'écran sur l'axe y
-​
+The objective is to create a small application that allows users to browse a list of furniture and decorations, each item consisting of an image and a description.
+They are contraints :
 
+- The image must always maintain the same aspect ratio.
+- It should expand if the screen is wider than the source image.
+- The displayed space should remain consistent.
+- The image must be centered on the x-axis.
+- The text can span one or two lines and should be fully displayed.
+- The label size should adapt based on the number of lines, making it dynamically sized.
+- Buttons will always be 60x60 with the same image inside.
+- They should be positioned at the center of the screen on the y-axis.
+- In general, all elements should be centered on the y-axis of the screen.
 
-Temps de réalisation: 3heures
+Estimated completion time: 3 hours.
